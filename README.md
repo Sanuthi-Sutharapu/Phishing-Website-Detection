@@ -28,7 +28,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 python -m unittest discover -s tests -v
 ```
 
-You should see 6 tests pass.
+You should see 10 tests pass.
 
 ## Stage 2: Collect data
 
